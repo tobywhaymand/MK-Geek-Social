@@ -1,0 +1,11 @@
+@font-face {
+  'src:url(url/fonts/Rubik);
+}
+h1 {
+    text-align: center;
+  font-family: 'Rubik', sans-serif;
+  }
+p {
+  font-family: 'Rubik', sans-serif;
+ font-size: 1.4em;
+}
