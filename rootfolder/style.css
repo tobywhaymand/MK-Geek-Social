@@ -1,3 +1,8 @@
+body {
+  background-image:
+  url('./background.jpeg');
+}
+
 @font-face {
   'src:url(url/fonts/Rubik);
 }
@@ -8,7 +13,5 @@ h1 {
 p {
   font-family: 'Rubik', sans-serif;
  font-size: 1.4em;
-}
-{
-  background-image: url('/rootfodler/background.jpg')
+ color: white;
 }
